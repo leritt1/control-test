@@ -4,7 +4,7 @@ function Card({card}) {
     return(
         <div className="card">
             <div className="card-img">
-                <img src={card.path_img} alt={card.name} />
+                <img src={card.path_img} alt={card.name} /**width={270} height={197}**/ />
             </div>
 
             <div className="card-info">
@@ -17,7 +17,6 @@ function Card({card}) {
                     <div className="gram">
                     <span>{card.gram}</span>
                     </div>
-
                     <button>Buy</button>
                 </div>
             </div>

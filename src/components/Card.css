@@ -1,0 +1,48 @@
+.card {
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.card-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 197px;
+    border-radius: 9px;
+    margin-bottom: 12px;
+}
+
+
+.title-price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.title-price h3 {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.title-price span {
+    font-weight: 700;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.card-footer button {
+    background-color: #FDB827;
+    border: none;
+    padding: 8px 22px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+}

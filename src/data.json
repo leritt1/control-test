@@ -1,0 +1,59 @@
+
+[
+{
+    "id": 1,
+    "name": "Ripe Yellow Banana",
+    "price": "$2.89",
+    "gram": "500g",
+    "path_img": "/img/banana.png"
+},
+{
+    "id": 2,
+    "name": "Red Pomegranate",
+    "price": "$3.89",
+    "gram": "500g",
+    "path_img": "/img/granade.png"
+},
+{
+    "id": 3,
+    "name": "Sweet Orange",
+    "price": "$2.89",
+    "gram": "500g",
+    "path_img": "/img/oranges.png"
+},
+{
+   "id": 4,
+    "name": "Tasty Avocado",
+    "price": "$3.89",
+    "gram": "500g",
+    "path_img": "/img/avocado.png"
+},
+{
+    "id": 5,
+    "name": "Ripe red apples",
+    "price": "$5.89",
+    "gram": "500g",
+    "path_img": "/img/apple.png"
+},
+{
+    "id": 6,
+    "name": "Ripe Green Apple",
+    "price": "$1.89",
+    "gram": "500g",
+    "path_img": "/img/appleGreen.png"
+},
+{
+    "id": 7,
+    "name": "Sweet Strawberry",
+    "price": "$5.89",
+    "gram": "500g",
+    "path_img": "/img/strawberry.png"
+},
+{
+   "id": 8,
+    "name": "Tasty Watemelon",
+    "price": "$6.89",
+    "gram": "500g",
+    "path_img": "/img/watermelon.png"
+}
+]
